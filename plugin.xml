@@ -8,7 +8,7 @@
   <author>kamesh</author>
   <keywords>android,ios,cordova-android,cordova-ios,demo-plugin</keywords>
   <dependency>sample-plugin</dependency>
-  <preference name=SAMPLE_API_KEY />
+  <preference name="SAMPLE_API_KEY" />
   <license>GPL</license>
   
   <engines>
